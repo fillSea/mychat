@@ -1,0 +1,17 @@
+/* 登录按钮样式 */
+QPushButton#login_button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+}
+
+QPushButton#login_button:hover {
+    background-color: #45a049;
+}
+
+QPushButton#login_button:pressed {
+    background-color: #3e8e41;
+}
